@@ -1,1 +1,1 @@
-# RL-exersice1
+# reinforcement learning
